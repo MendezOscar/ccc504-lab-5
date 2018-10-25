@@ -1,0 +1,19 @@
+{
+  "name": "ccc504-lab-5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "program.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "h2o2": "^8.1.2",
+    "handlebars": "^4.0.12",
+    "hapi": "^17.6.0",
+    "inert": "^5.1.0",
+    "vision": "^5.4.0"
+  }
+}
